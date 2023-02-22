@@ -3,7 +3,7 @@
   <router-view/>
 </template>
 
-...
+Deneme123
 
 <script>
 
